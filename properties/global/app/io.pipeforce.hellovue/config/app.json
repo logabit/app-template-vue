@@ -1,0 +1,9 @@
+{
+  "title": "io.pipeforce.hellovue",
+  "description": "",
+  "icon": "assignment",
+  "tags": [
+  ],
+  "show": "CAN_APP_IO.PIPEFORCE.HELLOVUE",
+  "editions": ["basic", "enterprise"]
+}

@@ -1,3 +1,5 @@
 {
-  "propertiesHome" : "properties"
+  "propertiesHome" : "properties",
+  "deployWithExtension": true,
+  "requiredVersion": "9.0"
 }
