@@ -1,0 +1,8 @@
+{
+  "title": "My Iframe Tile",
+  "description": "Loads Iframe.",
+  "icon": "integration_instructions",
+  "color": "green",
+  "type": "iframe",
+  "url": "https://hub-latest.local.pipeforce.dev/api/v3/command/app.resource.get?app=io.pipeforce.hellovue&path=public/index"
+}
